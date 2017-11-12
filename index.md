@@ -4,9 +4,18 @@ You can use the [editor on GitHub](https://github.com/overheat/legomesh/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 大事件 Events
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Make faire 2017 (Shenzhen)
+
+LegoMesh 首次公开展示。好多小朋友对乐高很感兴趣，Bluetooth Mesh就没那么重要了。总之，开心就好！
+
+
+![MF1](images/MF2017/MF1.jpg)
+![MF2](images/MF2017/MF2.jpg)
+![MF3](images/MF2017/MF3.jpg)
+![MF4](images/MF2017/MF4.jpg)
+
 
 ```markdown
 Syntax highlighted code block
